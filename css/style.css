@@ -19,6 +19,10 @@ body {
     font-family: 'Oswold', sans-serif;
 }
 
+div {
+    margin-left: 20px;
+}
+
 nav ul {
     list-style: none;
     background-color: #2d3ddd;
